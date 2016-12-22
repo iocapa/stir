@@ -1,0 +1,1 @@
+PID Controlled magnetic bar stirrer using an ATTINY13 micro with a fan recovered from a computer.
